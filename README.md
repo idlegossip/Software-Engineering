@@ -101,7 +101,7 @@ After detailed testing, the conclusive product is released in phases as per the 
  #### 1. **WaterFall Model :** 🟥
  
  It is also referred to as a linear-sequential life cycle model.In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.   
-🔦 ***Requirement analysis ---> System Design ---> Implementation ---> Testing ---> Deployment ---> Maintenance**
+🔦 ***Requirement analysis ---> System Design ---> Implementation ---> Testing ---> Deployment ---> Maintenance***
 
 - [x] **Application:** 🟠
 - Requirements are very well documented, clear and fixed.
