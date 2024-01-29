@@ -257,6 +257,67 @@ Other benefits of the spiral model include:
 > [!note]
 > The Spiral Model is called a Meta-Model because it includes all other SDLC models and it main benefit is the risk management.
 
+#### **Incremental Model :** 🟥  
+[very good resources](https://thestudygenius.com/incremental-model/) 
+
+![](https://private-user-images.githubusercontent.com/65750784/300437641-daf09ede-3e20-430c-9659-9839c4066aea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MjgyNTgsIm5iZiI6MTcwNjUyNzk1OCwicGF0aCI6Ii82NTc1MDc4NC8zMDA0Mzc2NDEtZGFmMDllZGUtM2UyMC00MzBjLTk2NTktOTgzOWM0MDY2YWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDExMzIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5MGEyNTFhZjFkMjY1YjQ4NGFlY2JmMGFlNTYyMzQ2N2JhM2NkZGRiODg1YjQyMDk0ZjljNDg4YTNhNzczOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eaEpyxxZWt6qP-r73_XzCCkrd4eoXQxwSWVEil_nRK8)   
+Incremental Model is a process of software development where requirements are divided into multiple standalone modules of the software development cycle. In this model, each module goes through the requirements, design, implementation and testing phases. Every subsequent release of the module adds function to the previous release. The process continues until the complete system is achieved.
+
+![](https://private-user-images.githubusercontent.com/65750784/300437628-20ec4e25-7924-4d3d-b48f-dfd1dcbc9f0e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MjgyNTgsIm5iZiI6MTcwNjUyNzk1OCwicGF0aCI6Ii82NTc1MDc4NC8zMDA0Mzc2MjgtMjBlYzRlMjUtNzkyNC00ZDNkLWI0OGYtZGZkMWRjYmM5ZjBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDExMzIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2ZWE2MjYxNTNjNjgxZDJiNjdmZjRlOTQyNzQyYWQxMjNhYThmYTBkYzU3ODNlZTkyYTY5ZDQwZmI3YTdlYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3DDB7GqVBNrWxwqeQ3TTzEPWaXjeeu_iLooBfOExrE0)
+
+- [x] ***Life Cycle Activities:*** 🟠  
+Requirements of Software are first broken down into several modules that can be incrementally constructed and delivered.
+
+- At any time, the plan is made just for the next increment and not for any kind of long-term plan. Therefore, it is easier to modify the version as per the need of the customer.
+- The Development Team first undertakes to develop core features (these do not need services from other features) of the system.
+- Once the core features are fully developed, then these are refined to increase levels of capabilities by adding new functions in Successive versions.
+- Each incremental version is usually developed using an iterative waterfall model of development.
+- As each successive version of the software is constructed and delivered, now the feedback of the Customer is to be taken and these were then incorporated into the next version.
+- Each version of the software has more additional features than the previous ones.
+- After Requirements gathering and specification, requirements are then split into several different versions starting with version 1, in each successive increment, the next version is constructed and then deployed at the customer site.
+- After the last version (version n), it is now deployed at the client site.
+
+- [x] ***Types of Incremental Model:*** 🟠
+1. ***Staged Delivery Model:*** Construction of only one part of the project at a time.
+2. ***Parallel Development Model:*** Different subsystems are developed at the same time. It can decrease the calendar time needed for the development, i.e. TTM (Time to Market) if enough resources are available. 
+
+- [x] ***When to use Incremental Process Model:*** 🟠
+1. Funding Schedule, Risk, Program Complexity, or need for early realization of benefits.
+2. When Requirements are known up-front.
+3. When Projects have lengthy development schedules.
+4. Projects with new Technology.
+5. Error Reduction (core modules are used by the customer from the beginning of the phase and then these are tested thoroughly).
+6. Uses divide and conquer for a breakdown of tasks.
+7. Lowers initial delivery cost.
+8. Incremental Resource Deployment.
+9. Requires good planning and design.
+10. The total cost is not lower.
+11. Well-defined module interfaces are required.
+
+
+- [x] ***Characteristics of Incremental Process Model :*** 🟠
+1. System development is divided into several smaller projects.
+2. To create a final complete system, partial systems are constructed one after the other.
+3. Priority requirements are addressed first.
+4. The requirements for that increment are frozen once they are created.
+
+- [x] ***Advantages of Incremental Process Model:***
+1. Prepares the software fast.
+2. Clients have a clear idea of the project.
+3. Changes are easy to implement.
+4. Provides risk handling support, because of its iterations.
+5. Adjusting the criteria and scope is flexible and less costly.
+6. Comparing this model to others, it is less expensive.
+7. The identification of errors is simple.
+- [x] ***Disadvantages of Incremental Process Model:*** 🟠
+1. A good team and proper planned execution are required.
+2. Because of its continuous iterations the cost increases.
+3. Issues may arise from the system design if all needs are not gathered upfront throughout the duration of the program lifecycle.
+4. Every iteration step is distinct and does not flow into the next.
+5. It takes a lot of time and effort to fix an issue in one unit if it needs to be corrected in all the units.
+
+
+
 
           
         
