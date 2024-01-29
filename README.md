@@ -99,8 +99,9 @@ After detailed testing, the conclusive product is released in phases as per the 
 
 ## **SDLC MODEL :** 💻
  #### 1. **WaterFall Model :** 🟥
- 
- It is also referred to as a linear-sequential life cycle model.In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.   
+ ![](https://private-user-images.githubusercontent.com/65750784/300380572-1fc7279a-dd1f-4fd3-a361-5a9728ee5fbd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTY3MzAsIm5iZiI6MTcwNjUxNjQzMCwicGF0aCI6Ii82NTc1MDc4NC8zMDAzODA1NzItMWZjNzI3OWEtZGQxZi00ZmQzLWEzNjEtNWE5NzI4ZWU1ZmJkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4MjAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZWU2N2FjN2UzNmNkZGVjZGMwMDdkMTVlN2E5NDZmMDNmYWE4NDg5OWU3YjQzNjA0YmEzMDZmMzg4N2U2OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1MvbcLWAhC9InBBukRDL92xXDRw9v-Os-ev55Euj8bY)
+
+It is also referred to as a linear-sequential life cycle model.In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.   
 🔦 ***Requirement analysis ---> System Design ---> Implementation ---> Testing ---> Deployment ---> Maintenance***
 
 - [x] **Application:** 🟠
