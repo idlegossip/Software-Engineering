@@ -140,7 +140,124 @@ It is also referred to as a linear-sequential life cycle model.In a waterfall mo
 8.  Adjusting scope during the life cycle can end a project.
 9.  Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or challenges early.
             
-        
+
+#### 2. **Iterative Waterfall Model:** 🟥  
+![](https://private-user-images.githubusercontent.com/65750784/300389315-4cac19c3-9202-42f6-970a-4332bd1059a5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTgwNDMsIm5iZiI6MTcwNjUxNzc0MywicGF0aCI6Ii82NTc1MDc4NC8zMDAzODkzMTUtNGNhYzE5YzMtOTIwMi00MmY2LTk3MGEtNDMzMmJkMTA1OWE1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4NDIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwM2M5YTIzMjA1YjEwOWZiNzZmMjgwZDQ3ZTRjNDRkNTVlZTllNDljN2ZkMzE1NzNmMTBhNDAxZDRlZTJkYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hLhvx6YwmKLzb8J4ScxQzfh_FVJoVjlhZYiKcR6B_u8)   
+🔦 ***Requirement---> Analysis --->Design ---> Testing ---> Implementation ---> Review --->  
+Design ---> Implementation ---> Review --->  
+Design ---> Testing ---> Implementation ---> Review ---> Deployment ---> Maintenance.***
+
+The Iterative Waterfall Model is a software development approach that combines the sequential steps of the traditional Waterfall Model with the flexibility of iterative design. It allows for improvements and changes to be made at each stage of the development process, instead of waiting until the end of the project. 
+
+- [x] ***Main Difference with classical waterfall model :*** 🟠
+The iterative waterfall model provides feedback paths from every phase to its preceding phases, which is the main difference from the classical waterfall model. 
+- When errors are detected at some later phase, these feedback paths allow for correcting errors committed by programmers during some phase.
+- The feedback paths allow the phase to be reworked in which errors are committed and these changes are reflected in the later phases.
+- But, there is no feedback path to the stage – feasibility study, because once a project has been taken, one does not give up the project easily.
+- It is good to detect errors in the same phase in which they are committed.
+- It reduces the effort and time required to correct the errors.
+- A real-life example could be building a new website for a small busines
+
+- [x] **Application of Iterative Waterfall Model :** 🟠 
+- When requirements are defined clearly and easy to understand.
+- When the software application is large.
+- When there is a requirement of changes in future.
+- [x] ***Advantages :*** 🟠 
+- Some working functionality can be developed quickly and early in the life cycle.
+- Results are obtained early and periodically.
+- Parallel development can be planned.
+- Progress can be measured.
+- Less costly to change the scope/requirements.
+- Testing and debugging during smaller iterations is easy.
+- Risks are identified and resolved during iteration; and each iteration is an easily managed milestone.
+- Easier to manage risk - High risk part is done first.
+- With every increment, an operational product is delivered.
+- Issues, challenges and risks identified from each increment can be utilized/applied to the next increment.
+- Risk analysis is better.
+- It supports changing requirements.
+- Initial Operating time is less.
+- Better suited for large and mission-critical projects.
+- During the life cycle, software is produced early which facilitates customer evaluation and feedback.
+- [x] ***Disadvantages :*** : 🟠
+- More resources may be required.
+- Although the cost of change is lesser, it is not very suitable for changing requirements.
+- More management attention is required.
+- System architecture or design issues may arise because not all requirements are gathered in the beginning of the entire life cycle.
+- Defining increments may require definition of the complete system.
+- Not suitable for smaller projects.
+- Management complexity is more.
+- End of the project may not be known which is a risk.
+- Highly skilled resources are required for risk analysis.
+- Project progress is highly dependent upon the risk analysis phase.
+
+#### **3. Spiral Model:** 🟥
+![](https://private-user-images.githubusercontent.com/65750784/300391233-0c24af7c-b4cf-4e5c-9c52-b2d10588386e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTg0MzYsIm5iZiI6MTcwNjUxODEzNiwicGF0aCI6Ii82NTc1MDc4NC8zMDAzOTEyMzMtMGMyNGFmN2MtYjRjZi00ZTVjLTljNTItYjJkMTA1ODgzODZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4NDg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0MWVlM2U0Y2Q1YzA2Y2FkYzgyZDY4ZjE3Y2E4NzA0NzRkNjIyZjhmYWVlNzE0NDBmOTIyMTM4MGQ2OGQyZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.z-H5YdGPBT7xGhiad1dgo3k3cjGbLBWNGGm2BZNQTr8)
+![](https://private-user-images.githubusercontent.com/65750784/300391250-76dc3832-3ebb-4bf9-ba02-59d549da4dcb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTg0MzYsIm5iZiI6MTcwNjUxODEzNiwicGF0aCI6Ii82NTc1MDc4NC8zMDAzOTEyNTAtNzZkYzM4MzItM2ViYi00YmY5LWJhMDItNTlkNTQ5ZGE0ZGNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4NDg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkZTMzMWU2ZDAzYzEwMmIxZmQzOWQ1NTU5MmYzMjk3NzE3MTQwZmQ4YWNjYWExMWM4ZmViOTAyYjBjOGRmZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XWbY1HUHffgNmCDUTVH6NDbSgcxTuodo8d72V2oCqQ4)   
+The spiral model is a systems development lifecycle (SDLC) method used for risk management that combines the iterative development process model with elements of the Waterfall model. The spiral model is used by software engineers and is favored for large, expensive and complicated projects.When viewed as a diagram, the spiral model looks like a coil with many loops. The number of loops varies based on each project and is often designated by the project manager. Each loop of the spiral is a phase in the software development process.
+The spiral model enables gradual releases and refinement of a product through each phase of the spiral as well as the ability to build prototypes at each phase. The most important feature of the model is its ability to manage unknown risks after the project has commenced; creating a prototype makes this feasible.
+
+- [x] **Uses of the spiral model:** 🟠
+
+As mentioned before, the spiral model is best used in large, expensive and complicated projects. Other uses include:
+- projects in which frequent releases are necessary.
+- projects in which changes may be required at any time.
+- long term projects that are not feasible due to altered economic priorities.
+- medium to high risk projects.
+- projects in which cost and risk analysis is important.
+- projects that would benefit from the creation of a prototype.
+- projects with unclear or complex requirements.
+
+- [x] ***Spiral model phases:*** 🟠
+
+When looking at a diagram of a spiral model, the radius of the spiral represents the cost of the project and the angular degree represents the progress made in the current phase. Each phase begins with a goal for the design and ends when the developer or client reviews the progress.
+***Every phase can be broken into four quadrants:***
+1. identifying and understanding requirements.
+2. performing risk analysis.
+3. building the prototype and
+4. evaluation of the software's performance.
+   
+- **Phases begin in the quadrant dedicated to the identification and understanding of requirements.**  The overall goal of the phase should be determined and all objectives should be elaborated and analyzed. It is important to also identify alternative solutions in case the attempted version fails to perform.
+- Next, **risk analysis** should be performed on all possible solutions in order to find any faults or vulnerabilities -- such as running over the budget or areas within the software that could be open to cyber attacks. Each risk should then be resolved using the most efficient strategy.
+- **In the next quadrant, the prototype is built and tested.** This step includes: architectural design, design of modules, physical product design and the final design. It takes the proposal that has been created in the first two quadrants and turns it into software that can be utilized.
+- **Finally, in the fourth quadrant, the test results of the newest version are evaluated.** This analysis allows programmers to stop and understand what worked and didn’t work before progressing with a new build. At the end of this quadrant, planning for the next phase begins and the cycle repeats. At the end of the whole spiral, the software is finally deployed in its respective market.
+
+- [x] ***Steps of the spiral model:*** 🟠
+
+While the phases are broken down into quadrants, each quadrant can be further broken down into the steps that occur within each one. The steps in the spiral model can be generalized as follows:
+- The new system requirements are defined in as much detail as possible. This usually involves interviewing a number of users representing all the external or internal users and other aspects of the existing system.
+- A preliminary design is created for the new system.
+- A first prototype of the new system is constructed from the preliminary design. This is usually a scaled-down system, and represents an approximation of the characteristics of the final product.
+- A second prototype is evolved by a fourfold procedure:
+   - (1) evaluating the first prototype in terms of its strengths, weaknesses, and risks;
+   - (2) defining the requirements of the second prototype;
+   - (3) planning and designing the second prototype;
+   - (4) constructing and testing the second prototype.
+- The entire project can be aborted if the risk is deemed too great. Risk factors might involve development cost overruns, operating-cost miscalculation and other factors that could result in a less-than-satisfactory final product.
+- The existing prototype is evaluated in the same manner as was the previous prototype, and, if necessary, another prototype is developed from it according to the fourfold procedure outlined above.
+- The preceding steps are iterated until the customer is satisfied that the refined prototype represents the final product desired.
+- The final system is constructed, based on the refined prototype.
+- The final system is thoroughly evaluated and tested. Routine maintenance is carried out on a continuing basis to prevent large-scale failures and to minimize downtime.
+
+- [x] ***Benefits of the spiral model:*** 🟠
+      
+As mentioned before, the spiral model is a great option for large, complex projects. The progressive nature of the model allows developers to break a big project into smaller pieces and tackle one feature at a time, ensuring nothing is missed. Furthermore, since the prototype building is done progressively, the cost estimation of the whole project can sometimes be easier.  
+Other benefits of the spiral model include:
+- [ ] ***Flexibility -*** Changes made to the requirements after development has started can be easily adopted and incorporated.
+- [ ] ***Risk handling -*** The spiral model involves risk analysis and handling in every phase, improving security and the chances of avoiding attacks and breakages. The iterative development process also facilitates risk management.
+- [ ] ***Customer satisfaction -*** The spiral model facilitates customer feedback. If the software is being designed for a customer, then the customer will be able to see and evaluate their product in every phase. This allows them to voice dissatisfactions or make changes before the product is fully built, saving the development team time and money.
+
+- [x] ***Limitations of the spiral model:*** 🟠
+      
+- [ ] ***High cost -*** The spiral model is expensive and, therefore, is not suitable for small projects.
+- [ ] ***Dependence on risk analysis -*** Since successful completion of the project depends on effective risk handling, then it is necessary for involved personnel to have expertise in risk assessment.
+- [ ] ***Complexity -*** The spiral model is more complex than other SDLC options. For it to operate efficiently, protocols must be followed closely. Furthermore, there is increased documentation since the model involves intermediate phases.
+- [ ] ***Hard to manage time -*** Going into the project, the number of required phases is often unknown, making time management almost impossible. Therefore, there is always a risk for falling behind schedule or going over budget.
+
+
+> [!note]
+> The Spiral Model is called a Meta-Model because it includes all other SDLC models and it main benefit is the risk management.
+
+
           
         
 
