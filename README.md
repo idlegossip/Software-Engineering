@@ -98,7 +98,7 @@ After the development of the product, testing of the software is necessary to en
 After detailed testing, the conclusive product is released in phases as per the organization’s strategy. Then it is tested in a real industrial environment. It is important to ensure its smooth performance. If it performs well, the organization sends out the product as a whole. After retrieving beneficial feedback, the company releases it as it is or with auxiliary improvements to make it further helpful for the customers. However, this alone is not enough. 
 
 ## **SDLC MODEL :** 💻
- #### 1. **WaterFall Model :** 🟥
+ ### 1. **WaterFall Model :** 🟥
  ![](https://private-user-images.githubusercontent.com/65750784/300380572-1fc7279a-dd1f-4fd3-a361-5a9728ee5fbd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTY3MzAsIm5iZiI6MTcwNjUxNjQzMCwicGF0aCI6Ii82NTc1MDc4NC8zMDAzODA1NzItMWZjNzI3OWEtZGQxZi00ZmQzLWEzNjEtNWE5NzI4ZWU1ZmJkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4MjAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZWU2N2FjN2UzNmNkZGVjZGMwMDdkMTVlN2E5NDZmMDNmYWE4NDg5OWU3YjQzNjA0YmEzMDZmMzg4N2U2OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1MvbcLWAhC9InBBukRDL92xXDRw9v-Os-ev55Euj8bY)
 
 It is also referred to as a linear-sequential life cycle model.In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.   
@@ -141,7 +141,7 @@ It is also referred to as a linear-sequential life cycle model.In a waterfall mo
 9.  Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or challenges early.
             
 
-#### 2. **Iterative Waterfall Model:** 🟥  
+### 2. **Iterative Waterfall Model:** 🟥  
 ![](https://private-user-images.githubusercontent.com/65750784/300389315-4cac19c3-9202-42f6-970a-4332bd1059a5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTgwNDMsIm5iZiI6MTcwNjUxNzc0MywicGF0aCI6Ii82NTc1MDc4NC8zMDAzODkzMTUtNGNhYzE5YzMtOTIwMi00MmY2LTk3MGEtNDMzMmJkMTA1OWE1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4NDIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwM2M5YTIzMjA1YjEwOWZiNzZmMjgwZDQ3ZTRjNDRkNTVlZTllNDljN2ZkMzE1NzNmMTBhNDAxZDRlZTJkYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hLhvx6YwmKLzb8J4ScxQzfh_FVJoVjlhZYiKcR6B_u8)   
 🔦 ***Requirement---> Analysis --->Design ---> Testing ---> Implementation ---> Review --->  
       Design ---> Implementation ---> Review --->  
@@ -190,7 +190,7 @@ The iterative waterfall model provides feedback paths from every phase to its pr
 - Highly skilled resources are required for risk analysis.
 - Project progress is highly dependent upon the risk analysis phase.
 
-#### **3. Spiral Model:** 🟥
+### **3. Spiral Model:** 🟥
 ![](https://private-user-images.githubusercontent.com/65750784/300391233-0c24af7c-b4cf-4e5c-9c52-b2d10588386e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTg0MzYsIm5iZiI6MTcwNjUxODEzNiwicGF0aCI6Ii82NTc1MDc4NC8zMDAzOTEyMzMtMGMyNGFmN2MtYjRjZi00ZTVjLTljNTItYjJkMTA1ODgzODZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4NDg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0MWVlM2U0Y2Q1YzA2Y2FkYzgyZDY4ZjE3Y2E4NzA0NzRkNjIyZjhmYWVlNzE0NDBmOTIyMTM4MGQ2OGQyZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.z-H5YdGPBT7xGhiad1dgo3k3cjGbLBWNGGm2BZNQTr8)
 ![](https://private-user-images.githubusercontent.com/65750784/300391250-76dc3832-3ebb-4bf9-ba02-59d549da4dcb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MTg0MzYsIm5iZiI6MTcwNjUxODEzNiwicGF0aCI6Ii82NTc1MDc4NC8zMDAzOTEyNTAtNzZkYzM4MzItM2ViYi00YmY5LWJhMDItNTlkNTQ5ZGE0ZGNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDA4NDg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkZTMzMWU2ZDAzYzEwMmIxZmQzOWQ1NTU5MmYzMjk3NzE3MTQwZmQ4YWNjYWExMWM4ZmViOTAyYjBjOGRmZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XWbY1HUHffgNmCDUTVH6NDbSgcxTuodo8d72V2oCqQ4)   
 The spiral model is a systems development lifecycle (SDLC) method used for risk management that combines the iterative development process model with elements of the Waterfall model. The spiral model is used by software engineers and is favored for large, expensive and complicated projects.When viewed as a diagram, the spiral model looks like a coil with many loops. The number of loops varies based on each project and is often designated by the project manager. Each loop of the spiral is a phase in the software development process.
@@ -207,7 +207,7 @@ As mentioned before, the spiral model is best used in large, expensive and compl
 - projects that would benefit from the creation of a prototype.
 - projects with unclear or complex requirements.
 
-- [x] ***Spiral model phases:*** 🟠
+#### ***Spiral model phases:*** 🟠
 
 When looking at a diagram of a spiral model, the radius of the spiral represents the cost of the project and the angular degree represents the progress made in the current phase. Each phase begins with a goal for the design and ends when the developer or client reviews the progress.
 ***Every phase can be broken into four quadrants:***
@@ -257,7 +257,7 @@ Other benefits of the spiral model include:
 > [!note]
 > The Spiral Model is called a Meta-Model because it includes all other SDLC models and it main benefit is the risk management.
 
-#### **4. Incremental Model :** 🟥  
+### **4. Incremental Model :** 🟥  
 [very good resources](https://thestudygenius.com/incremental-model/) 
 
 ![](https://private-user-images.githubusercontent.com/65750784/300437641-daf09ede-3e20-430c-9659-9839c4066aea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MjgyNTgsIm5iZiI6MTcwNjUyNzk1OCwicGF0aCI6Ii82NTc1MDc4NC8zMDA0Mzc2NDEtZGFmMDllZGUtM2UyMC00MzBjLTk2NTktOTgzOWM0MDY2YWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDExMzIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5MGEyNTFhZjFkMjY1YjQ4NGFlY2JmMGFlNTYyMzQ2N2JhM2NkZGRiODg1YjQyMDk0ZjljNDg4YTNhNzczOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eaEpyxxZWt6qP-r73_XzCCkrd4eoXQxwSWVEil_nRK8)   
@@ -316,7 +316,7 @@ Requirements of Software are first broken down into several modules that can be 
 5. It takes a lot of time and effort to fix an issue in one unit if it needs to be corrected in all the units.
 
 
-#### **5. Agile Model :** 🟥
+### **5. Agile Model :** 🟥
 ![](https://private-user-images.githubusercontent.com/65750784/300870851-058a1420-d144-4ef7-b0b4-5b0f0de0a42c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2Mjk0NDEsIm5iZiI6MTcwNjYyOTE0MSwicGF0aCI6Ii82NTc1MDc4NC8zMDA4NzA4NTEtMDU4YTE0MjAtZDE0NC00ZWY3LWIwYjQtNWIwZjBkZTBhNDJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMwVDE1MzkwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxNTQyNWMxZDA0MTI0Mjc2NzEzMTEwZmEwMTRkOWI5Y2IwYmZmZDc2YWJkZGQyZWJlMjg0NmZlYmE4YTI0MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-QqkLochVzYj4TQdeSNpSKt7wpoCRm6JfNibhwyQxIg)
 
 The meaning of Agile is swift or versatile."Agile process model" refers to a software development approach based on iterative development. Agile methods break tasks into smaller iterations, or parts do not directly involve long term planning. The project scope and requirements are laid down at the beginning of the development process.
@@ -343,7 +343,7 @@ Each iteration is considered as a short time "frame" in the Agile process model,
 
 - [ ] ***Feedback:*** 📘 After releasing the product, the last step is feedback. In this, the team receives feedback about the product and works through the feedback.
 
-***Agile Testing Methods:*** 🟠
+#### ***Agile Testing Methods:*** 🟠
 
 - Kanban.
 - Scrum.
@@ -433,7 +433,7 @@ This method focuses on "Designing and Building" features. In contrast to other s
 
 The Agile Manifesto is a document that focuses on four values and 12 principles for Agile software development. It was published in February 2001 by 17 software developers who needed an alternative to the more linear product development process.  
 
-- ***What are the 4 pillars of Agile?*** 📘
+##### ***What are the 4 pillars of Agile❓***
 
 As outlined in the Agile Manifesto, there are four main values of Agile project management:
 
@@ -446,7 +446,7 @@ Customers are extremely important within the Agile methodology. Agile teams allo
 5. ***Responding to change over following a plan:***
 One of the major benefits of Agile project management is that it allows teams to be flexible. This framework allows for teams to quickly shift strategies and workflows without derailing an entire project.
 
-- ***What are the 12 Agile principles?*** 📘
+##### ***What are the 12 Agile principles❓***
       
 The four values of Agile are the pillars of Agile methodology. From those values, the team developed 12 principles.
 If the four values of Agile are the weight-bearing pillars of a house, then these 12 principles are the rooms you can build within that house. These principles can be easily adapted to fit the needs of your team. 
@@ -466,7 +466,7 @@ If the four values of Agile are the weight-bearing pillars of a house, then thes
   11. Self-organizing teams generate the most value. Similar to principle #5, proactive teams become valuable assets to the company as they strive to deliver value.
   12. Regularly reflect and adjust your way of work to boost effectiveness. Retrospective meetings are a common Agile practice. It's a dedicated time for teams to look back and reflect on their performance and adapt their behaviors for the future.
 
-- ***What are the benefits of the Agile development methodology?*** 📘
+##### ***What are the benefits of the Agile development methodology ❓***
 
 You commonly find Agile project management used in application development or other types of software development. This is because software is constantly changing, and the needs of the product have to change with it. 
 Because of this, linear project management methods like the waterfall model are less effective.
@@ -501,6 +501,91 @@ Since customer satisfaction is a key driver for software development, it’s eas
 
 > [!note]
 > Agile methodology is a project management framework that breaks projects down into several dynamic phases, commonly known as sprints.The Agile Model is a software development process that involves iterative development. It's a type of incremental model that involves developing software in rapid cycles. The Agile Model focuses on working software, rather than comprehensive documentation.
+
+
+### **6. RAD Model:** 🟥 
+The RAD model is a form of agile methodology that focuses on constant iterations and prototypes based on user feedback. It allows you to incorporate updates based on usage rather than a rigid development plan.
+
+***Using this development life cycle, developers can:*** 🟠
+  1. Make changes to the design.
+  1. Remove or add features.
+  1. Edit interfaces. 
+They can do all these without  affecting the whole process while also dealing with changing requirements, as they happen, based on client/user feedback. This translates into rapid prototypes for testing and additional improvements.
+
+##### **Why use the RAD model❓**
+Software development requires a lot of knowledge—about how your business works, what your customers want, and how it all comes together. The RAD model is no exception. But rather than relying on your internal team’s ability to capture all that knowledge first and plan around it, rapid application development counts on the knowledge your team will gain during the project—information that will improve or adapt the solution to requirements you might not have thought of otherwise. 
+The clearer your requirements are, the stronger your prototypes (and final product) will be, so consider focus groups and workshops to establish your requirements and early testing to refine them. An experienced team of developers can take those requirements and create a working prototype for your users to vet and help improve with every version. With thoughtful feedback and continuous collaboration, the knowledge you learn during the process builds back on itself to help you construct a viable product shaped by customer needs.
+
+#### **The RAD model in 5 phases** 🟠
+If you’d rather focus your limited time on building instead of planning, rapid app development may be a good fit. Traditional methods for developing software rely on rigid requirements and precise specs to be decided up front—spending valuable time locking in as many details as possible first. The downside? You may be forced to start from scratch every time a client wants to make a change.
+The rapid application development process is different. Instead of lots of detailed planning, you break the project into five phases: business modeling, data modeling, process modeling, application generation, and testing and turnover. When you’re pressed for time or it’d be better to get a version of your solution in front of a customer as quickly as possible, RAD helps deliver apps for them to see, react to, and help you improve in real time.
+
+![](https://private-user-images.githubusercontent.com/65750784/300896160-d5636b4e-bd56-4e8d-9ec4-ba1994391c79.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2MzM5MzIsIm5iZiI6MTcwNjYzMzYzMiwicGF0aCI6Ii82NTc1MDc4NC8zMDA4OTYxNjAtZDU2MzZiNGUtYmQ1Ni00ZThkLTllYzQtYmExOTk0MzkxYzc5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMwVDE2NTM1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxZGVmMTEwN2MwYjI3YmJmZTYwNTcwODMwZWFlMjMyNDJhZDU5YjY3ZDRlNjc4NTQ0ZTk4Y2I0OTNjYzIxYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IlEK8JL5SDSxdo3OcSsGaosi7PsP5cMef0pEVeW1WVs) 
+
+- [x] ***Phase 1: Business modeling:*** 📘
+      
+First, you need to find out how information flows across your business. This starts with a broad analysis of your business by your internal team to uncover how vital information and data is obtained, how it’s processed, where it’s distributed, when all that happens, and what can slow it down. The more your team can understand what kind of information is driving your processes, how it’s generated, who touches it, and why—the better your analysis in the next phase will turn out.
+
+- [x] ***Phase 2: Data modeling:*** 📘
+      
+Now that you’ve pulled your information together, it’s time for your team to start analyzing it. To do that, you’ll need to identify and refine key data sets across your business, define them clearly, then group them in ways that might be useful to you later. It’s important for your team to look things over closely and accurately describe each group’s attributes—this will help you more easily sort out relationships between them, the effects of those relationships, and how they might be relevant to your business going forward.
+
+- [x] ***Phase 3: Process modeling:*** 📘
+      
+Time to take what you’ve learned and see where it all fits. That means beginning to understand the flow of information around key objectives and how that data supports specific business functions. It’s not too late for the team to further tighten data sets here—so feel free to make required changes and adjust if needed. You’ll also outline your processes to change, add, delete, or retrieve a data object.
+
+- [x] ***Phase 4: Application generation:*** 📘
+
+This is when your concept starts to become a reality and your developer team begins to actually construct your software. With process and data models in hand, they’ll begin creating components and full prototypes to be tested in the next phase. To get there, developers will build out your system and code automation tools to transform your process models into actual, working code.
+
+- [x] ***Phase 5: Testing and turnover:*** 📘
+      
+Now it’s time to see what your users and clients think. Here, prototypes are tested separately, so clients and users can scrutinize each new component and examine carefully to identify issues. It’s key to thoroughly test the data flow and interfaces between all your components, so you can identify what’s effective and root out any major issues early. You’ll also be able to save some time as you further iterate, since many of the programming components you’re using will have been tested previously.
+
+#### **Pros and cons of the RAD process** 🟠
+
+Rapid application development is a nimble way to build apps, but it’s not a one-size-fits-all solution. Before you start Phase 1 of the RAD process, it’s important to know not only the benefits of RAD, but also potential drawbacks or pitfalls you might encounter along the way.
+
+***Here are some upsides to following the rapid application development model:***
+
++ Quicker development and faster delivery of a viable product.
++ More flexible functionality shaped by relevant user feedback.
++ Reduced risk of major failures or overhauls.
++ Constant input by users helps sidestep and solve issues in real-time.
++ Less manual coding with code generators and re-usable code.
++ Minimal to no planning up front.
++ More visibility for end users and customers.
++ Adapts to changing requirements and user requests.
++ Encourages regular, less formal communication.
++ Allows for smaller teams of specialists.
+  
+***Here are some potential downsides to deploying the rapid application development model:*** 🟠
+
++ Not ideal for smaller projects or when your technical risk is high.
++ System must be modular and able to be broken into components.
++ Requires highly skilled designers, developers, and coders.
++ Need buy-in and involvement from everyone on project team.
++ Everyone on the project—yes, everyone—must meet deadlines.
++ Requires technical and business expertise to help root out requirements.
++ Could put limits on some features’ functionality and scalability.
++ Increased project expense with modeling and code generation.
++ Multiple iterations, constant communication, and feed could be harder to track.
++ Minimal up-front planning doesn’t leave much to track progress against.
+  
+- [x] **Getting the most out of rapid application development :** 🟠
+      
+Like most other successful models, knowing the phases is just the start: The right team, tools, and insights make a big difference along the way. To ensure you’re maximizing your people, technology, and knowledge during each phase of the rapid application development process, follow these best four best practices:
+
+1. Stack your team with developers, domain experts, customer representatives, and IT pros with a knack for meeting deadlines—while there’s not much planning up front, the rapid application development model thrives when schedule is prioritized.
+2. Make sure your stakeholders aren’t just knowledgeable about your business—they’re also willing to share that knowledge, early and often, with candid feedback.
+3. Secure enough budget for an experienced developer team that’s comfortable with receiving feedback from multiple sources and quickly turning around changes throughout the process.
+4. Match your developer team’s skillset with the right rapid application development tools, including automated code generators that construct software and convert your models into workable prototypes.
+
+> [!note]
+> With a relatively small team closely collaborating, your business can build apps in just two or three months using the rapid application development (RAD) model.That’s because the rapid application development model prioritizes fast prototyping over up-front planning—to help you jump right in and create agile apps through continuous iteration and quick feedback.
+As technology evolves, business objectives change, and organizational goals shift, the RAD model helps teams quickly create powerful solutions that are low code, cost-efficient, and nimble.The RAD process starts with aligning your stakeholders, developers, and users around key requirements for the project—timeline, business outcomes, user expectations, and budget—before quickly building out prototypes to get a working version in front of stakeholders for feedback. With your prototypes in hand, you’ll then build a working model of your solution for users to react to, before integrating their feedback into the final, optimized version of your app.
+
+
 
 
 
