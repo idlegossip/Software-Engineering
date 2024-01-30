@@ -257,7 +257,7 @@ Other benefits of the spiral model include:
 > [!note]
 > The Spiral Model is called a Meta-Model because it includes all other SDLC models and it main benefit is the risk management.
 
-#### **Incremental Model :** 🟥  
+#### **4. Incremental Model :** 🟥  
 [very good resources](https://thestudygenius.com/incremental-model/) 
 
 ![](https://private-user-images.githubusercontent.com/65750784/300437641-daf09ede-3e20-430c-9659-9839c4066aea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MjgyNTgsIm5iZiI6MTcwNjUyNzk1OCwicGF0aCI6Ii82NTc1MDc4NC8zMDA0Mzc2NDEtZGFmMDllZGUtM2UyMC00MzBjLTk2NTktOTgzOWM0MDY2YWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDExMzIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5MGEyNTFhZjFkMjY1YjQ4NGFlY2JmMGFlNTYyMzQ2N2JhM2NkZGRiODg1YjQyMDk0ZjljNDg4YTNhNzczOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eaEpyxxZWt6qP-r73_XzCCkrd4eoXQxwSWVEil_nRK8)   
@@ -315,6 +315,176 @@ Requirements of Software are first broken down into several modules that can be 
 3. Issues may arise from the system design if all needs are not gathered upfront throughout the duration of the program lifecycle.
 4. Every iteration step is distinct and does not flow into the next.
 5. It takes a lot of time and effort to fix an issue in one unit if it needs to be corrected in all the units.
+
+
+#### **5. Agile Model :** 🟥
+The meaning of Agile is swift or versatile."Agile process model" refers to a software development approach based on iterative development. Agile methods break tasks into smaller iterations, or parts do not directly involve long term planning. The project scope and requirements are laid down at the beginning of the development process.
+Each iteration is considered as a short time "frame" in the Agile process model, which typically lasts from one to four weeks. The division of the entire project into smaller parts helps to minimize the project risk and to reduce the overall project delivery time requirements. Each iteration involves a team working through a full software development life cycle including planning, requirements analysis, design, coding, and testing before a working product is demonstrated to the client.  
+
+***Phases of Agile Model:***
+1. Requirements gathering.
+2. Design the requirements.
+3. Construction/ iteration.
+4. Testing/ Quality assurance.
+5. Deployment.
+6. Feedback
+
+- [ ] ***Requirements gathering:*** 📘 In this phase, you must define the requirements. You should explain business opportunities and plan the time and effort needed to build the project. Based on this information, you can evaluate technical and economic feasibility.
+
+- [ ] ***Design the requirements:*** 📘 When you have identified the project, work with stakeholders to define requirements. You can use the user flow diagram or the high-level UML diagram to show the work of new features and show how it will apply to your existing system.
+
+- [ ] ***Construction/ iteration:*** 📘 When the team defines the requirements, the work begins. Designers and developers start working on their project, which aims to deploy a working product. The product will undergo various stages of improvement, so it includes simple, minimal functionality.
+
+- [ ] ***Testing:*** 📘 In this phase, the Quality Assurance team examines the product's performance and looks for the bug.
+
+- [ ] ***Deployment:*** 📘 In this phase, the team issues a product for the user's work environment.
+
+- [ ] ***Feedback:*** 📘 After releasing the product, the last step is feedback. In this, the team receives feedback about the product and works through the feedback.
+
+***Agile Testing Methods:*** 🟠
+- Kanban.
+- Scrum.
+- Crystal.
+- Dynamic Software Development Method(DSDM).
+- Feature Driven Development(FDD).
+- Lean Software Development.
+- eXtreme Programming(XP)
+
+- ***Kanban::*** 📘
+Kanban is a visual approach to Agile. Teams use online Kanban board tools to represent where certain tasks are in the development process. Tasks are represented by cards on a board, and stages are represented in columns. As team members work on tasks, they move cards from the backlog column to the column that represents the stage the task is in.
+This method is a good way for teams to identify roadblocks and to visualize the amount of work that’s getting done.
+
+- ***Scrum*** 📘
+SCRUM is an agile development process focused primarily on ways to manage tasks in team-based development conditions.Scrum is a common Agile methodology for small teams and also involves sprints.
+
+***There are three roles in it, and their responsibilities are:*** 🟠
+  1. ***Scrum Master:*** The scrum can set up the master team, arrange the meeting and remove obstacles for the process.
+  2. ***Product owner:*** The product owner makes the product backlog, prioritizes the delay and is responsible for the distribution of functionality on each repetition.
+  3. ***Scrum Team:*** The team manages its work and organizes the work to complete the sprint or cycle.
+- [ ] ***print planning:*** This event kicks off the sprint. Sprint planning outlines what can be delivered in a sprint (and how).
+- [ ] Sprint retrospective: This recurring meeting acts as a sprint review—to iterate on learnings from a previous sprint that will improve and streamline the next one.
+      
+- ***eXtreme Programming(XP):*** 📘
+This type of methodology is used when customers are constantly changing demands or requirements, or when they are not sure about the system's performance.
+***The five values of XP include:***
+1. Communication.
+2. Simplicity.
+3. Feedback.
+4. Courage.
+5. Respect  
+
+Similar to daily Scrum standups, there are regular releases and iterations, yet XP is much more technical in its approach. If your dev team needs to quickly release and respond to customer requests, XP focuses on the “how” it will get done. 
+
+- ***Crystal:*** 📘
+There are three concepts of this method-
+   + ***Chartering:*** Multi activities are involved in this phase such as making a development team, performing feasibility analysis, developing plans, etc.
+   + ***Cyclic delivery:*** under this, two more cycles consist, these are:
+        - Team updates the release plan.
+        - Integrated product delivers to the users.
+  + ***Wrap up:*** According to the user environment, this phase performs deployment, post-deployment.
+
+- ***Dynamic Software Development Method(DSDM):*** 📘
+DSDM is a rapid application development strategy for software development and gives an agile project distribution structure. The essential features of DSDM are that users must be actively connected, and teams have been given the right to make decisions.
+***The techniques used in DSDM are:*** 🟠
+   + Time Boxing.
+   + MoSCoW Rules.
+   + Prototyping
+
+***The DSDM project contains seven stages:*** 🟠
+  + Pre-project.
+  + Feasibility Study.
+  + Business Study.
+  + Functional Model Iteration.
+  + Design and build Iteration.
+  + Implementation.
+  + Post-project
+
+- ***Feature Driven Development(FDD):*** 📘
+This method focuses on "Designing and Building" features. In contrast to other smart methods, FDD describes the small steps of the work that should be obtained separately per function.
+
+- ***Lean Software Development:*** 📘
+Lean software development methodology follows the principle "just in time production." The lean method indicates the increasing speed of software development and reducing costs. 
+***Lean development can be summarized in seven phases.*** 🟠
+  + Eliminating Waste.
+  + Amplifying learning.
+  + Defer commitment (deciding as late as possible).
+  + Early delivery.
+  + Empowering the team.
+  + Building Integrity.
+  + Optimize the whole
+    
+- [x] *** When to use the Agile Model?*** 📘
+  1. When frequent changes are required.
+  2. When a highly qualified and experienced team is available.
+  3. When a customer is ready to have a meeting with a software team all the time.
+  4. When project size is small.
+
+- [x] ***What is the Agile Manifesto?*** 📘
+The Agile Manifesto is a document that focuses on four values and 12 principles for Agile software development. It was published in February 2001 by 17 software developers who needed an alternative to the more linear product development process.  
+
+- [x] ***What are the 4 pillars of Agile?*** 🟠
+***As outlined in the Agile Manifesto, there are four main values of Agile project management:***
+1. ***Individuals over processes and tools:*** 📘 Agile teams value team collaboration and teamwork over working independently and doing things "by the book.”
+2. ***Working software over comprehensive documentation:*** 📘 The software that Agile teams develop should work. Additional work, like documentation, is not as important as developing good software.
+3. ***Customer collaboration over contract negotiation:*** 📘 Customers are extremely important within the Agile methodology. Agile teams allow customers to guide where the software should go. Therefore, customer collaboration is more important than the finer details of contract negotiation.
+4. ***Responding to change over following a plan:*** 📘 One of the major benefits of Agile project management is that it allows teams to be flexible. This framework allows for teams to quickly shift strategies and workflows without derailing an entire project.
+
+***What are the 12 Agile principles?*** 🟠
+The four values of Agile are the pillars of Agile methodology. From those values, the team developed 12 principles.
+If the four values of Agile are the weight-bearing pillars of a house, then these 12 principles are the rooms you can build within that house. These principles can be easily adapted to fit the needs of your team. 
+***The 12 principles used in Agile methodology are:***
+1. Satisfy customers through early, continuous improvement and delivery.When customers receive new updates regularly, they're more likely to see the changes they want within the product. This leads to happier, more satisfied customers—and more recurring revenue.
+2. Welcome changing requirements, even late in the project. The Agile framework is all about adaptability. In iterative processes like Agile, being inflexible causes more harm than good.
+3. Deliver value frequently. Similar to principle #1, delivering value to your customers or stakeholders frequently makes it less likely for them to churn.
+4. Break the silos of your projects. Collaboration is key in the Agile framework. The goal is for people to break out of their own individual projects and collaborate together more frequently.
+5. Build projects around motivated individuals. Agile works best when teams are committed and actively working to achieve a goal.
+6. The most effective way to communicate is face-to-face. If you’re working on a distributed team, spend time communicating in ways that involve face-to-face communication like Zoom calls.
+7. Working software is the primary measure of progress. The most important thing that teams should strive for with the Agile framework is the product. The goal here is to prioritize functional software over everything else.
+8. Maintain a sustainable working pace. Some aspects of Agile can be fast-paced, but it shouldn't be so fast that team members burn out. The goal is to maintain sustainability throughout the project.
+9. Continuous excellence enhances agility. If the team develops excellent code in one sprint, they can continue to build off of it the next. Continually creating great work allows teams to move faster in the future.
+10. Simplicity is essential. Sometimes the simplest solution is the best solution. Agile aims to not overcomplicate things and find simple answers to complex problems.
+11. Self-organizing teams generate the most value. Similar to principle #5, proactive teams become valuable assets to the company as they strive to deliver value.
+12. Regularly reflect and adjust your way of work to boost effectiveness. Retrospective meetings are a common Agile practice. It's a dedicated time for teams to look back and reflect on their performance and adapt their behaviors for the future.
+
+
+***What are the benefits of the Agile development methodology?*** 📘
+You commonly find Agile project management used in application development or other types of software development. This is because software is constantly changing, and the needs of the product have to change with it. 
+Because of this, linear project management methods like the waterfall model are less effective. 
+
+***Here are a few other reasons why teams use Agile:*** 🟠
+
+- ***Agile methods are adaptable:*** 📘
+There's a reason why they call it the Agile methodology. One of the main benefits of using Agile processes in software development is the ability to shift strategies quickly, without disrupting the flow of a project. 
+Because phases in the traditional waterfall method flow into one another, shifting strategies is challenging and can disrupt the rest of the project roadmap. Since software development is a much more adaptable field, project managing rapid changes in the traditional sense can be challenging. This is part of the reason why Agile project management is favored in software development.
+
+- ***Agile fosters collaborative teamwork:*** 📘
+One of the Agile principles states that the most effective way to communicate with your team is face-to-face. Combine this with the principle that encourages teams to break project silos and you have a recipe for collaborative teamwork. 
+While technology has changed since Agile’s inception and work has shifted to welcome more remote-friendly policies, the idea of working face-to-face still hasn't changed.
+
+- ***Agile methods focus on customer needs:*** 📘
+One of the unique aspects of software development is that teams can focus on customer needs much more closely than other industries. With the rise of cloud-based software, teams can get feedback from their actual customers quickly. 
+Since customer satisfaction is a key driver for software development, it’s easy to see why it was included in the Agile process. By collaborating with customers, Agile teams can prioritize features that focus on customer needs. When those needs change, teams can take an Agile approach and shift to a different project. 
+
+
+Advantages of Agile Methodology :
+
+In Agile methodology the delivery of software is unremitting.
+The customers are satisfied because after every Sprint working feature of the software is delivered to them.
+Customers can have a look of the working feature which fulfilled their expectations.
+If the customers has any feedback or any change in the feature then it can be accommodated in the current release of the product.
+In Agile methodology the daily interactions are required between the business people and the developers.
+In this methodology attention is paid to the good design of the product.
+Changes in the requirements are accepted even in the later stages of the development.
+An Agile/Scrum approach can improve organizational synergy by breaking down organizational barriers and developing a spirit of trust and partnership around organizational goals.
+Disadvantages of the Agile Methodology :
+
+In Agile methodology the documentation is less.
+Sometimes in Agile methodology the requirement is not very clear hence it’s difficult to predict the expected result.
+In few of the projects at the starting of the software development life cycle it’s difficult to estimate the actual effort required.
+Because of the ever-evolving features, there is always a risk of the ever-lasting project.
+For complex projects, the resource requirement and effort are difficult to estimate.
+
+
 
 
 
